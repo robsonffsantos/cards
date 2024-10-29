@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pokémon Cards Project
 
-## Getting Started
+## Link do projeto: https://cards-chi-bay.vercel.app
 
-First, run the development server:
+## Descrição
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este é um projeto Next.js que exibe cards de Pokémon, usando a [PokeAPI](https://pokeapi.co/) para obter dados dos Pokémon. O layout é responsivo e usa Tailwind CSS para estilização. O projeto é escrito em TypeScript.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Funcionalidades
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Exibe cards de Pokémon com nome, número, tipo e imagem.
+- Opção de carregar mais Pokémon ou reiniciar a lista.
+- Cores de fundo dos cards são definidas com base nos tipos dos Pokémon, com divisão diagonal para dois tipos.
+- Layout responsivo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tecnologias
 
-## Learn More
+- **Next.js**: Framework React para renderização e roteamento.
+- **TypeScript**: Tipagem estática para melhorar a manutenção do código.
+- **Tailwind CSS**: Biblioteca para estilos utilitários.
+- **PokeAPI**: API usada para obter os dados dos Pokémon.
 
-To learn more about Next.js, take a look at the following resources:
+## Contato
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
+- **LinkedIn:** [Robson Fernando](https://www.linkedin.com/in/robsonffdossantos/?locale=pt_BR)
